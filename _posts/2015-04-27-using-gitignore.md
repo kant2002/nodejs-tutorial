@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Использование .Gitignore
 permalink: /posts/2015-04-27/using-gitignore
 ---
