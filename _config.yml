@@ -1,0 +1,12 @@
+# Site settings
+title: Введение в Node.JS
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username: kant2002
+
+# Build settings
+markdown: kramdown
+permalink: pretty
