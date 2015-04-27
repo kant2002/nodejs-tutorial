@@ -38,9 +38,9 @@ npm-debug.log
 вам стоит выполнить примерно следующую последовательность команд:
 
 ```
-git rm --cached npm-debug.log
-git rm --cached .nbproject -r
-git commit -m "Remove files which should not be in repo."
+    git rm --cached npm-debug.log
+    git rm --cached .nbproject -r
+    git commit -m "Remove files which should not be in repo."
 ```
 
 Параметр --cached нужен для того чтобы не удалять файл который уже есть на вашем компьютере. Если 
