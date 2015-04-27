@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Использование .Gitignore
-permalink: /nodejs-tutorial/posts/2015-04-27/using-gitignore
+permalink: posts/2015-04-27/using-gitignore
 ---
 
 ## Использование .Gitignore
